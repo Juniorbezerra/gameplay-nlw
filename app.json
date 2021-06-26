@@ -4,11 +4,12 @@
     "slug": "gameplay",
     "version": "1.0.0",
     "orientation": "portrait",
+    "scheme": "gameplay",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#0E1647"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
